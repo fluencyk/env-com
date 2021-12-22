@@ -10,3 +10,4 @@
 ## 2021-12-23
 - Started spatial sensor grid mapping research
 - minor research note 1
+- minor research note 2
