@@ -6,3 +6,6 @@
 ## 2021-12-24
 - Drafted sensor layer requirements: low-cost, privacy-first, edge-first
 
+
+## 2021-12-23
+- Started spatial sensor grid mapping research
