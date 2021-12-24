@@ -5,3 +5,4 @@
 
 ## 2021-12-24
 - Drafted sensor layer requirements: low-cost, privacy-first, edge-first
+
