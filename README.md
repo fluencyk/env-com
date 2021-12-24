@@ -2,3 +2,6 @@
 
 ## 2021-12-23
 - Defined multi-layer architecture draft: sensor → edge → cloud → socio-technical feedback
+
+## 2021-12-24
+- Drafted sensor layer requirements: low-cost, privacy-first, edge-first
