@@ -16,3 +16,4 @@
 - minor research note 5
 - minor research note 6
 - NFAI necessity draft 1 – why current urban sensing ignores socio-technical feedback loops
+- NFAI necessity draft 2 – why current urban sensing ignores socio-technical feedback loops
