@@ -23,3 +23,4 @@
 - NFAI feasibility matrix row 4 – LoRa vs NB-IoT vs 5G-RedCap for privacy-first edge sensing in dense urban canopy
 - NFAI feasibility matrix row 5 – LoRa vs NB-IoT vs 5G-RedCap for privacy-first edge sensing in dense urban canopy
 - NFAI feasibility matrix row 6 – LoRa vs NB-IoT vs 5G-RedCap for privacy-first edge sensing in dense urban canopy
+- NFAI feasibility matrix row 7 – LoRa vs NB-IoT vs 5G-RedCap for privacy-first edge sensing in dense urban canopy
