@@ -37,3 +37,4 @@
 - NFAI interaction layer sketch 2 – participatory sensing feedback loop vs top-down data pipeline
 - NFAI interaction layer sketch 3 – participatory sensing feedback loop vs top-down data pipeline
 - NFAI interaction layer sketch 4 – participatory sensing feedback loop vs top-down data pipeline
+- NFAI interaction layer sketch 5 – participatory sensing feedback loop vs top-down data pipeline
