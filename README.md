@@ -40,3 +40,4 @@
 - NFAI interaction layer sketch 5 – participatory sensing feedback loop vs top-down data pipeline
 - NFAI interaction layer sketch 6 – participatory sensing feedback loop vs top-down data pipeline
 - NFAI interaction layer sketch 7 – participatory sensing feedback loop vs top-down data pipeline
+- NFAI actualization layer draft 1 – edge-cloud hybrid anomaly detection with privacy budget allocation
