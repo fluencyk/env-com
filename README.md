@@ -64,3 +64,4 @@
 - NFAI actualization layer draft 2 – edge-cloud hybrid anomaly detection with dynamic privacy budget allocation
 - NFAI actualization layer draft 3 – edge-cloud hybrid anomaly detection with dynamic privacy budget allocation
 - NFAI actualization layer draft 4 – edge-cloud hybrid anomaly detection with dynamic privacy budget allocation
+- NFAI actualization layer draft 5 – edge-cloud hybrid anomaly detection with dynamic privacy budget allocation
