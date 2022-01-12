@@ -71,3 +71,4 @@
 - NFAI intelligence layer draft 1 – comparing federated learning vs differential privacy for citizen-contributed heat anomaly streams
 - NFAI intelligence layer draft 2 – comparing federated learning vs differential privacy for citizen-contributed heat anomaly streams
 - NFAI intelligence layer draft 3 – comparing federated learning vs differential privacy for citizen-contributed heat anomaly streams
+- NFAI intelligence layer draft 4 – comparing federated learning vs differential privacy for citizen-contributed heat anomaly streams
