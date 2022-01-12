@@ -68,3 +68,4 @@
 - NFAI actualization layer draft 6 – edge-cloud hybrid anomaly detection with dynamic privacy budget allocation
 - NFAI actualization layer draft 7 – edge-cloud hybrid anomaly detection with dynamic privacy budget allocation
 - NFAI actualization layer draft 8 – edge-cloud hybrid anomaly detection with dynamic privacy budget allocation
+- NFAI intelligence layer draft 1 – comparing federated learning vs differential privacy for citizen-contributed heat anomaly streams
