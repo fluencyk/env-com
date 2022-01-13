@@ -85,3 +85,4 @@
 - NFAI actualization layer draft 6 – comparing federated learning vs differential privacy for citizen-contributed temperature streams
 - NFAI actualization layer draft 7 – comparing federated learning vs differential privacy for citizen-contributed temperature streams
 - NFAI actualization layer draft 8 – comparing federated learning vs differential privacy for citizen-contributed temperature streams
+- NFAI actualization layer draft 9 – comparing federated learning vs differential privacy for citizen-contributed temperature streams
