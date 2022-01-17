@@ -95,3 +95,4 @@
 - NFAI actualization layer draft 7 – edge-cloud hybrid anomaly detection with dynamic privacy budget allocation
 - NFAI interaction layer draft 1 – designing clarification prompts for ambiguous heat anomaly alerts from citizens
 - NFAI interaction layer draft 2 – designing clarification prompts for ambiguous heat anomaly alerts from citizens
+- NFAI interaction layer draft 3 – designing clarification prompts for ambiguous heat anomaly alerts from citizens
