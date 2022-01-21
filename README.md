@@ -111,3 +111,4 @@
 - NFAI actualization layer draft 7 – edge-cloud hybrid anomaly detection with dynamic privacy budget allocation
 - NFAI actualization layer draft 8 – edge-cloud hybrid anomaly detection with dynamic privacy budget allocation
 - NFAI actualization layer draft 9 – edge-cloud hybrid anomaly detection with dynamic privacy budget allocation
+- NFAI feasibility matrix update 1 – comparing LoRa vs NB-IoT vs 5G-RedCap for privacy-first urban edge sensing
