@@ -125,3 +125,4 @@
 - NFAI feasibility minor note 3 – added reference: Paulos et al., Participatory Urbanism (2011)
 - NFAI feasibility minor note 1 – added reference: Kuznetsov et al., Participatory Sensing in Urban Environments (2010)
 - NFAI feasibility minor note 2 – added reference: Kuznetsov et al., Participatory Sensing in Urban Environments (2010)
+- NFAI feasibility minor note 3 – added reference: Kuznetsov et al., Participatory Sensing in Urban Environments (2010)
