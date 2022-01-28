@@ -136,3 +136,4 @@
 - NFAI feasibility update 8 – added notes on differential privacy noise vs anomaly detection accuracy in urban heat streams
 - NFAI feasibility update 9 – added notes on differential privacy noise vs anomaly detection accuracy in urban heat streams
 - NFAI feasibility update 10 – added notes on differential privacy noise vs anomaly detection accuracy in urban heat streams
+- NFAI feasibility update 11 – added notes on differential privacy noise vs anomaly detection accuracy in urban heat streams
