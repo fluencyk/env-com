@@ -126,3 +126,4 @@
 - NFAI feasibility minor note 1 – added reference: Kuznetsov et al., Participatory Sensing in Urban Environments (2010)
 - NFAI feasibility minor note 2 – added reference: Kuznetsov et al., Participatory Sensing in Urban Environments (2010)
 - NFAI feasibility minor note 3 – added reference: Kuznetsov et al., Participatory Sensing in Urban Environments (2010)
+- NFAI feasibility update 1 – added notes on differential privacy noise vs anomaly detection accuracy in urban heat streams
