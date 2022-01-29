@@ -147,3 +147,4 @@
 - NFAI feasibility update 19 – added notes on differential privacy noise vs anomaly detection accuracy in urban heat streams
 - NFAI feasibility minor note 1 – added reference: Paulos et al., Urban Sensing Systems (2011)
 - NFAI feasibility minor note 2 – added reference: Paulos et al., Urban Sensing Systems (2011)
+- NFAI feasibility minor note 3 – added reference: Paulos et al., Urban Sensing Systems (2011)
