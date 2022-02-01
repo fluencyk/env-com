@@ -150,3 +150,4 @@
 - NFAI feasibility minor note 3 – added reference: Paulos et al., Urban Sensing Systems (2011)
 - NFAI intelligence layer draft 1 – initial experiments with federated averaging on synthetic urban heat datasets
 - NFAI intelligence layer draft 2 – initial experiments with federated averaging on synthetic urban heat datasets
+- NFAI intelligence layer draft 3 – initial experiments with federated averaging on synthetic urban heat datasets
