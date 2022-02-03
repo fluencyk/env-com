@@ -157,3 +157,4 @@
 - NFAI intelligence layer draft 1 – initial federated learning experiments on synthetic urban heat datasets with privacy budget ε=0.8
 - NFAI intelligence layer draft 2 – initial federated learning experiments on synthetic urban heat datasets with privacy budget ε=0.8
 - NFAI intelligence layer draft 3 – initial federated learning experiments on synthetic urban heat datasets with privacy budget ε=0.8
+- NFAI intelligence layer draft 4 – initial federated learning experiments on synthetic urban heat datasets with privacy budget ε=0.8
