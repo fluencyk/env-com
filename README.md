@@ -164,3 +164,4 @@
 - NFAI intelligence layer draft 8 – initial federated learning experiments on synthetic urban heat datasets with privacy budget ε=0.8
 - NFAI interaction layer note 1 – added reference: Yang et al., Interactive Machine Learning for Urban Computing (2020)
 - NFAI interaction layer note 2 – added reference: Yang et al., Interactive Machine Learning for Urban Computing (2020)
+- NFAI interaction layer note 3 – added reference: Yang et al., Interactive Machine Learning for Urban Computing (2020)
