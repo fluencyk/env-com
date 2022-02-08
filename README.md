@@ -165,3 +165,4 @@
 - NFAI interaction layer note 1 – added reference: Yang et al., Interactive Machine Learning for Urban Computing (2020)
 - NFAI interaction layer note 2 – added reference: Yang et al., Interactive Machine Learning for Urban Computing (2020)
 - NFAI interaction layer note 3 – added reference: Yang et al., Interactive Machine Learning for Urban Computing (2020)
+- NFAI feasibility minor note 1 – added reference: Gkatzelis et al., Urban Heat Island Modeling (2021)
