@@ -168,3 +168,4 @@
 - NFAI feasibility minor note 1 – added reference: Gkatzelis et al., Urban Heat Island Modeling (2021)
 - NFAI feasibility minor note 2 – added reference: Gkatzelis et al., Urban Heat Island Modeling (2021)
 - NFAI feasibility minor note 3 – added reference: Gkatzelis et al., Urban Heat Island Modeling (2021)
+- NFAI intelligence layer note 1 – added reference: Konečný et al., Federated Learning Challenges (2016)
