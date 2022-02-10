@@ -181,3 +181,4 @@
 - NFAI intelligence layer note %%i - added reference: Abadi et al., Deep Learning with Differential Privacy (2016) 
 - note 1 
 - note 2 
+- note 3 
