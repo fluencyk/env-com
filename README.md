@@ -180,3 +180,4 @@
 - NFAI actualization layer note 3 - initial sketch of edge-cloud hybrid anomaly detection with privacy budget ¦Å=0.8 
 - NFAI intelligence layer note %%i - added reference: Abadi et al., Deep Learning with Differential Privacy (2016) 
 - note 1 
+- note 2 
