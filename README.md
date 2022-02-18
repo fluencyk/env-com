@@ -202,3 +202,4 @@ Refactor content moderation workflow
 Debug content-user workflow under rapid publishing scenarios
 Enhance connection module throughput under unpredictable multi-node requests
 Optimize data processing pipeline for low-latency real-time operations
+Debug embedded software exception handling
