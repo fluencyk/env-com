@@ -171,3 +171,7 @@
 - NFAI intelligence layer note 1 â€“ added reference: KoneÄnÃ½ et al., Federated Learning Challenges (2016)
 - NFAI intelligence layer note 2 â€“ added reference: KoneÄnÃ½ et al., Federated Learning Challenges (2016)
 - NFAI intelligence layer note 3 â€“ added reference: KoneÄnÃ½ et al., Federated Learning Challenges (2016)
+- NFAI actualization layer note 1 - initial sketch of edge-cloud hybrid anomaly detection with privacy budget ¦Å=0.8 
+- NFAI actualization layer note 2 - initial sketch of edge-cloud hybrid anomaly detection with privacy budget ¦Å=0.8 
+- NFAI actualization layer note 3 - initial sketch of edge-cloud hybrid anomaly detection with privacy budget ¦Å=0.8 
+"- NFAI intelligence layer draft $i - comparing federated learning vs differential privacy for citizen-contributed temperature streams" 
