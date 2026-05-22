@@ -1,0 +1,23 @@
+EC Dev License
+Environmental Computation Development License
+
+Copyright (c) 2026 Chief Scientist: Yujun Kong @ Vivian Lab
+
+1. Basic Copyright Statement
+All source code, design documents, architectural theories, algorithm logic, and derivative works of the Environmental Computation (EC) project are original intellectual property independently developed by the project creator.
+
+2. Development Phase Restrictions (Current Valid Period)
+During the ongoing research, design, and iterative development stage of the project:
+2.1 Any form of commercial use is strictly prohibited, including but not limited to paid services, commercial embedding, product sales, and profit-oriented secondary development.
+2.2 Unauthorized copying, full or partial duplication, external dissemination, sharing, or distribution of any project files is forbidden.
+2.3 Academic reference, experimental verification, and research citation are permitted only with complete and explicit source attribution. Any citation must clearly indicate the original project affiliation; concealed quotation or disguised plagiarism is not allowed.
+
+3. Formal Release & Open Source Rules (Subsequent Effective Period)
+Upon the project’s overall completion and official release, partial open-source authorization will be activated. The following permanent restrictions shall always be observed:
+3.1 Commercial application is permitted, provided clear and prominent source attribution is retained in project interfaces, documentation, and public introductions.
+3.2 No individual or organization may delete, modify, or conceal original copyright marks or source identification information.
+3.3 Unauthorized plagiarism, tampering, rebranding, or disguised copying of core designs, protocol rules, and core algorithms is strictly prohibited.
+
+4. Liability Explanation
+Any violation of the above provisions constitutes infringement of the original intellectual property rights. The project creator reserves the right to pursue legal liability and claim compensation for all infringements.
+Access, browsing, or temporary use of project files does not imply any implicit authorization. All usage rights are granted solely under the terms of this license.
