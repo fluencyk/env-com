@@ -13,19 +13,13 @@ EC is defined as an **Environment‑Feature‑Driven Computational Methodology**
 - Embedded AI enhances perception, decision‑making, and natural interaction.
 
 ## Key Application Scenarios
-- **Smart Business Complex**: Proactive, context‑aware service recommendations aligned with the environment’s business feature.
+- **Smart Business Complex**: Proactive, context‑aware service recommendations aligned with the environment’s business features.
 - **Cultural & Historical Exploration**: Triggered digital storytelling and insights based on user attention in public spaces.
 - **Public Safety & Emergency Response**: Real‑time anomaly detection and coordinated rescue via environment‑deployed EC nodes.
 
 ## Necessity & Feasibility
 - **Necessity**: Addresses fragmentation, poor interoperability, and lack of context awareness in existing smart systems.
 - **Feasibility**: Built on mature modern stacks: edge computing, IoT sensors, low‑latency networks, and lightweight AI models.
-
-## Author
-**Yujun Kong**  
-MS in Software Engineering, Stevens Institute of Technology  
-BA in Visual Communication Design, China Academy of Art  
-Bi‑academic practitioner in design art and information science
 
 ## License
 See License Please
